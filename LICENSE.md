@@ -1,23 +1,5 @@
-# CodeShare
-A linux program to share code over the internet straight from the terminal. CodeShare extracts your source code from a file of your choice, and then uploads it to ubuntu pastebin. It then shortens the generated url using tinyurl, and presents it to you for sharing.
-
-## Setup
-
-####To Install:
-
-python3 Setup_CodeShare.py
-
-####To Run:
-
-python3 CodeShare.py
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to write to [kaivalyaraw@gmail.com](mailto:kaivalyaraw@gmail.com). I look forward to hearing from you.
-
-## License
-
-**This project is released under and protected by the MIT License**
+The MIT License (MIT)
+=====================
 
 _Copyright © 2015 Kaivalya Rawal_
 
@@ -41,3 +23,4 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
