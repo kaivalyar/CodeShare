@@ -3,11 +3,11 @@ A linux program to share code over the internet straight from the terminal. Code
 
 ## Setup
 
-####To Install:
+### To Install:
 
 python3 Setup_CodeShare.py
 
-####To Run:
+### To Run:
 
 python3 CodeShare.py
 
